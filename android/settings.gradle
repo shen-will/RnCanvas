@@ -1,0 +1,3 @@
+rootProject.name = 'chartest'
+
+include ':app', ':rncanvas'
